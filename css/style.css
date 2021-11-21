@@ -50,6 +50,7 @@ a {
 
 }
 .col {
+    flex: auto;
     margin: 10px 10px 10px 10px;
 
 }
@@ -88,18 +89,37 @@ a {
 /* Страничка жанров и тегов */
 
 .genre-first {
+    background-color: #E1F5EA;
+    margin:  10px 5px 10px -130px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
 
 }
 
 .genre-second {
+    width: 90%;
+    margin:  10px 5px 10px -130px;
+    background-color: #554AF0;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
 
 }
 
 .genre-third {
+    width: 50%;
+    margin:  10px 5px 10px -130px;
+    background-color: #CBEDFF;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
 
 }
 
 .genre-fourth {
+    width: 30%;
+    margin:  10px 5px 10px -130px;
+    background-color: #EBDCF9;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
 
 }
 
