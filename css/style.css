@@ -13,6 +13,7 @@ html {
 main {
     width: 300px;
     margin: 0px auto;
+
 }
 
 p {
@@ -40,6 +41,12 @@ a {
 }
 
 .button {
+    background-color: #554AF0;
+    border-color: #554AF0;
+    color: white;
+    margin: 5px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
 
 }
 
@@ -48,6 +55,10 @@ a {
 /* Login*/
 
 .input-login {
+    margin: 5px 0px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    border: 1px solid #DCDCDC;
+    border-radius: 5px;
 
 
 }
