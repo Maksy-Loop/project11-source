@@ -25,7 +25,13 @@ h2 {
 
 }
 
+h3 {
+    margin-left: -130px;
+
+}
+
 p {
+    margin-left: -130px;
 
 }
 
@@ -122,5 +128,21 @@ a {
 }
 
 .button-link {
+    background-color: #554AF0;
+    border-color: #554AF0;
+    color: white;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5x;
+    margin-left: 0px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+
+
+}
+
+.create {
+    margin-left: -130px;
 
 }
